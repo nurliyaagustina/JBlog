@@ -11,11 +11,11 @@ tag:
 - jekyll
 ---
 
-Nama        : Nurliya Agustina
-Alamat      : Jalan Sultan Syarif Qasim, Kecamatan Tualang, Kabupaten Siak
-Universitas : Universitas Islam Negeri Sultan Syarif Kasim Riau
-Jurusan     : Sistem Informasi
-Fakultas    : Sains Dan Teknologi
+Nama        : Nurliya Agustina<p>
+Alamat      : Jalan Sultan Syarif Qasim, Kecamatan Tualang, Kabupaten Siak<p>
+Universitas : Universitas Islam Negeri Sultan Syarif Kasim Riau<p>
+Jurusan     : Sistem Informasi<p>
+Fakultas    : Sains Dan Teknologi<p>
 
 
 
