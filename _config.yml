@@ -1,7 +1,9 @@
 # Site
 title:          Nurliya Agustina
 bio:            'Just a simple Jekyll theme'
-description:    "Mahasiswa Universitas Islam Negeri Sultan Syarif Kasim Riau"
+description:    "<p><span align="center">Mahasiswa Sistem Informasi</p>
+<p>Fakultas Sains Dan Teknologi </p>
+<p>Universitas Islam Negeri Sultan Syarif Kasim Riau </p>"
 picture:        'assets/img/profile.png'
 locale:         en_US
 url:            https://nurliyaagustina.github.io/
