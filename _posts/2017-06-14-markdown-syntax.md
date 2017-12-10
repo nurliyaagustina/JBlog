@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ab0ut"
+title:  "About"
 date:   2017-12-10
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 tag:
