@@ -1,13 +1,13 @@
 # Site navigation links
 
-- title:HOME
+- title: HOME
   url: /https://uin-suska.ac.id/
 
-- title:BLOG
+- title: BLOG
   url: /blog/
 
-- title:UIN SUSKA
+- title: UIN SUSKA
   url: /projects/
 
-- title:SIF UIN
+- title: SIF UIN
   url: /about/
