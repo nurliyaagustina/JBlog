@@ -1,9 +1,9 @@
 # Site navigation links
 
-- title: UIN SUSKA
-  url: /
+- title:HOME
+  url: /https://uin-suska.ac.id/
 
-- title:SAINTEK
+- title:UIN SUSKA
   url: /blog/
 
 - title:SIF
