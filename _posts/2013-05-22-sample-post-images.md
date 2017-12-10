@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Siak"
+title: "Passion Techno 2017"
 date: 2013-05-22
 excerpt: "Examples and code for displaying images in posts."
 tags: [sample post, images, test]
 ---
 
-Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
+Sistem Informasi kembali menggelar acara rutin Parade, Seni Sistem Informasi dan Teknologi (Passion Techno) pada 7-9 November 2017.  Kegiatan ini dilaksanakan di Halaman Fakultas Sains dan Teknologi (FST). Acara ini berlangsung meriah. Acara yang diketuai oleh Sirajuddin Usman ini mengusung tema a Blend of Art and Technology mengandung arti perpaduan acara seni dan teknologi. Passion Techno tahun ini bergandengan dengan acara Olimpiade Teknologi Informasi dan Komunikasi (OTIK).
 
 ### Figures (for images or video)
 
@@ -14,9 +14,11 @@ Here are some examples of what a post with images might look like. If you want t
 
 <figure>
 	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
-	<figcaption><a href="http://siakkab.go.id/" title="kabupaten siak"></a>.</figcaption>
+	<figcaption><a href="https://fst.uin-suska.ac.id/2017/11/09/tahun-ke-4-passion-techno-berlangsung-meriah/" title="passion techno"></a>.</figcaption>
 </figure>
+Perlombaaan yang diselenggarakan dalam acara ini ada delapan, diantaranya; nasyid, tari tradisional, akustik, stand up comedy, vokal solo, selfie contest, poster digital, dan doodle art dalam cakupan peserta se-Riau. Acara ini didukung oleh panitia yang berjumlah 150 orang dari angkatan 2015-2017. Selain itu, acara ini juga di meriahkan oleh bazar kuliner dan komunitas yang menambah kemeriahan acara. Pengumuman pemenang dari semua perlombaan dilakukan di hari terakhir pergelaran acara Passion Techno 2017.
 
+RELATED POSTS
 
 
 #### Two Up
