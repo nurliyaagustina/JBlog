@@ -16,22 +16,25 @@ tag:
 <p>Universitas : Universitas Islam Negeri Sultan Syarif Kasim Riau</p>
 <p>Jurusan     : Sistem Informasi</p>
 <p>Fakultas    : Sains Dan Teknologi</p>
-  
+ <br /> 
  <p align="center"> SISTEM INFORMASI UIN SUSKA RIAU </P>
  VISI
+ <br />
 Menjadi program studi yang menghasilkan lulusan sistem informasi yang handal dalam pendidikan, penelitian dan pengabdian masyarakat dengan integrasi nilai-nilai keislaman pada tahun 2033.
+<br />
 
 MISI
-
+<br />
 Melaksanakan pendidikan dan pengajaran yang handal dalam bidang teknologi informasi, manajemen sistem informasi dan bisnis informasi yang terintegrasi dengan nilai-nilai keislaman.
 Melaksanakan penelitian yang inovatif dan berkualitas dibidang sistem informasi.
 Melaksanaan pengabdian, pendampingan dan pemberdayaan masyarakat dalam bidang teknologi informasi dan komunikasi..
+<br />
 TUJUAN
-
-Menghasilkan lulusan yang memiliki kemampuan akademis dan praktis di bidang sistem informasi yang berwawasan keislaman.
-Menghasilkan penelitian dan karya ilmiah yang dipublikasikan dalam skala nasional dan internasional.
-Menghasilkan produk sistem informasi yang bermanfaat bagi masyarakat, institusi dan stakeholder.
-Menghasilkan kemitraan yang strategis dengan lembaga pemerintah maupun non pemerintah tingkat lokal, nasional dan internasional.
+<br />
+<p>Menghasilkan lulusan yang memiliki kemampuan akademis dan praktis di bidang sistem informasi yang berwawasan keislaman.</p>
+<p>Menghasilkan penelitian dan karya ilmiah yang dipublikasikan dalam skala nasional dan internasional.</p>
+<p>Menghasilkan produk sistem informasi yang bermanfaat bagi masyarakat, institusi dan stakeholder.</p>
+<p>Menghasilkan kemitraan yang strategis dengan lembaga pemerintah maupun non pemerintah tingkat lokal, nasional dan internasional.</p>
 </body>
 
 
