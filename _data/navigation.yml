@@ -1,12 +1,12 @@
 # Site navigation links
 
-- title:UINSUSKA
+- title: UINSUSKA
   url: /
 
-- title:SAINTEK
+- title: SAINTEK
   url: /blog/
 
-- title:SIF
+- title: SIF
   url: /projects/
 
 - title: About
