@@ -19,7 +19,7 @@ tag:
  <br /> 
  <p align="center"> SISTEM INFORMASI UIN SUSKA RIAU </P>
  VISI
- <br />
+<br />
 Menjadi program studi yang menghasilkan lulusan sistem informasi yang handal dalam pendidikan, penelitian dan pengabdian masyarakat dengan integrasi nilai-nilai keislaman pada tahun 2033.
 <br />
 
