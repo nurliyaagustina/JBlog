@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Passion Techno 2017"
-date: 2013-05-22
+date: 2017-12-10
 excerpt: "Examples and code for displaying images in posts."
 tags: [sample post, images, test]
 ---
 
 <p align="justify">Sistem Informasi kembali menggelar acara rutin Parade, Seni Sistem Informasi dan Teknologi (Passion Techno) pada 7-9 November 2017.  Kegiatan ini dilaksanakan di Halaman Fakultas Sains dan Teknologi (FST). Acara ini berlangsung meriah. Acara yang diketuai oleh Sirajuddin Usman ini mengusung tema a Blend of Art and Technology mengandung arti perpaduan acara seni dan teknologi. Passion Techno tahun ini bergandengan dengan acara Olimpiade Teknologi Informasi dan Komunikasi
 <figure>
-	<a href="/assets/img/p1.jpg"></a>
+	<img src="/assets/img/p1.jpg"></a> 
 	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
 	<figcaption><a href="https://fst.uin-suska.ac.id/2017/11/09/tahun-ke-4-passion-techno-berlangsung-meriah/" title="passion techno"></a>.</figcaption>
 </figure>
